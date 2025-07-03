@@ -1,0 +1,3 @@
+/c/Users/lukel/.m2/wrapper/dists/apache-maven-3.9.10/e5402a93/bin/mvn: line 93: cd: /c/Users/lukel/AppData/Roaming/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21: No such file or directory
+The JAVA_HOME environment variable is not defined correctly,
+this environment variable is needed to run this program.
